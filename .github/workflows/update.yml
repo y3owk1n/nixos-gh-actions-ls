@@ -9,7 +9,7 @@ permissions:
     contents: write
 
 jobs:
-    update-prisma:
+    update-gh-actions-ls:
         runs-on: ubuntu-latest
 
         steps:
