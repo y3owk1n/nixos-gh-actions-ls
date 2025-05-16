@@ -6,8 +6,8 @@
 }:
 let
   name = "gh-actions-language-server";
-  version = "0.0.3";
-  sha256 = "sha256-lgisfGIWGT/WCGqOfm/rqSXVeDWqSge2YJ+ZiBMmS48=";
+  version = "0.0.2";
+  sha256 = "sha256:13zbzibg226p8jq6zxmr1bdvnqxpz428vxck8gkbkgk6dxr3q2ip";
 in
 {
   imports = [
